@@ -1,0 +1,57 @@
+aggiungendo:
+
+
+forse:
+mo shiz (troppa roba aggiunta)
+handcrafted (abbiamo già decorazioni)
+apocalyptic fortress (TROPPO TROPPO TROPPO COMPLICATA)
+little maid (mi rifiuto)
+mineral chance (carina ma mi sembra eccessiva)
+mystical agriculture (anche questo farebbe progredire il gioco troppo rapidamente)
+phenomena structures (già troppe mod di strutture)
+lucky block (troppo sbilanciato)
+
+funzionanti:
+aquaculture
+dungeons plus
+geckolib
+yungs better dungeons
+yungs api
+immersive armors
+underground villages
+twilight forest
+rubidium
+additional structures
+architectury
+better combat
+biomes o plenty
+cloth config
+copper golem
+everything is copper
+falling tree
+jei
+neat mod
+playeranimation
+scuba gears
+simple mango
+simply swords
+terrablender (richiesto da plenty o biomes)
+the obsidian boat
+structuregel (richiesto da dungeonsplus)
+botany pot
+lava monster
+swampier swamp
+bookshelf (richiesto da botany pot)
+
+scartate:
+optifine (buggato con molte mod)
+castle dungeons (abbiamo dungeons plus)
+extra armor (immersive armors è più figo)
+more than a pickaxe (??????)
+the lost city (letteralmente sostituisce il mondo normale di minecraft con una merda di mappa)
+blue skies (buggato)
+krystalcraft (già troppa roba)
+regions unexplored (abbiamo già mo biomes)
+serene seasons (il gioco verrebbe complicato inutilmente da altre difficoltà)
+tolaserblade (NO)
+alternacraft (rovinano l'ecosistema)
