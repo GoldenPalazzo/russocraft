@@ -5,7 +5,6 @@ forse:
 mo shiz (troppa roba aggiunta)
 handcrafted (abbiamo già decorazioni)
 apocalyptic fortress (TROPPO TROPPO TROPPO COMPLICATA)
-little maid (mi rifiuto)
 mineral chance (carina ma mi sembra eccessiva)
 mystical agriculture (anche questo farebbe progredire il gioco troppo rapidamente)
 phenomena structures (già troppe mod di strutture)
@@ -42,6 +41,8 @@ botany pot
 lava monster
 swampier swamp
 bookshelf (richiesto da botany pot)
+little maid
+krystalcraft
 
 scartate:
 optifine (buggato con molte mod)
@@ -50,7 +51,6 @@ extra armor (immersive armors è più figo)
 more than a pickaxe (??????)
 the lost city (letteralmente sostituisce il mondo normale di minecraft con una merda di mappa)
 blue skies (buggato)
-krystalcraft (già troppa roba)
 regions unexplored (abbiamo già mo biomes)
 serene seasons (il gioco verrebbe complicato inutilmente da altre difficoltà)
 tolaserblade (NO)
